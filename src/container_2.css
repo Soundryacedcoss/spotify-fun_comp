@@ -1,0 +1,36 @@
+.ts_02_sec_01{
+    padding: 5%;
+    width: 90%;
+    text-align: center;
+    /* margin-left: 10%; */
+    background:gray ;
+}
+.tsk_02_main{
+    justify-content: center;
+   display: flex;
+}
+.tsk_01_div{
+    width: 20%;
+    padding: 2em;
+}
+.imge{
+    /* width: 45%; */
+    border-radius: 50%;
+    height: 9em;
+   
+}
+#ts_02_head{
+    font-size: xx-large;  
+}
+@media screen and (max-width: 700px) {
+    div.tsk_02_main {
+      width: 20%;
+      display: inline;
+    }
+  }
+  @media screen and (max-width: 700px) {
+    div.imge{
+      width: 20%;
+      display: inline;
+    }
+  }

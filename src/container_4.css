@@ -1,0 +1,106 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+#image{
+width: 10%;
+}
+
+.tsk_04_main{
+    /* padding: 2%; */
+    width: 100%;
+}
+.task_04_sec_01{
+    text-align: center;
+   
+}
+.all_sec{
+    margin-left: 5em;
+    margin-right: 5em;
+    display: flex;
+    column-gap: 10px;
+}
+.free_bt{
+    background-color: blue;
+ color: white;
+ /* width: 15%; */
+ padding:3%;
+ border-radius: 3px;
+}
+.free_bt:hover{
+    background-color: white;
+    color: black;
+}
+.One_time_plan_bt{
+    color: blue;
+    margin-top: 5%;
+    border-radius: 4px;
+}
+.One_time_plan_bt:hover{
+    background-color: black;
+    color: white;
+    
+}
+.View_plan_bt{
+  
+        /* background-color: black; */
+        padding: 1em;
+        margin-top: 1em;
+        border: solid black 2px;
+        width: 90%;
+        border-radius: 40px;
+        
+}
+.View_plan_bt:hover{
+    background-color: blue;
+    color: black;
+}
+.sec_main_01_tsk_04{
+    width: 25%;
+    border-radius: 14px;
+    padding: 4%;
+    border: solid gray 2px;
+    margin-top: 3%;
+}
+.sec_main_01_tsk_04:hover{
+    background-color: bisque;
+    color: yellow;
+}
+.check_mark{
+    font-size: x-large;
+}
+.tsk_04_last_sec{
+    text-align: center;
+    border: solid gray 3px;
+    
+    justify-content: center;
+    /* padding: 1em; */
+    border-radius: 30px;
+    margin-top: 3em;
+    margin-left: 15em;
+    margin-right: 15em;
+    
+}
+.learn_bt{
+    width: 15%;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 26px;
+}
+.learn_bt:hover{
+    background-color: blue;
+    color: white;
+}
+@media screen and (max-width: 480px) {
+    div.all_sec {
+    width: 100%;
+    display: inline;
+    justify-content: center;
+    }
+  }
+ 
+  @media screen and (max-width: 480px) {
+    div.tsk_04_last_sec {
+      margin: 0%;
+    }
+  }

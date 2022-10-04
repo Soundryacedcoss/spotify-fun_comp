@@ -1,0 +1,82 @@
+.Section_01{
+  background-color: black;
+  display: flex;
+ column-gap: 40%;
+  /* border: solid red; */
+}
+.img1{
+  margin-left: 5%;
+  width: 15%;
+  height: 5em;
+}
+.nav_div_main{
+  
+  color: aliceblue;
+  padding-left: 1em;
+  float: right;
+}
+.nav_div{
+  float: right;
+  padding: 1em;
+  text-align: end;
+  margin-top: 4%;
+}
+.section_02{
+  width: 100%;
+  height: 22em;
+  color: white;
+  background-color: purple;
+  text-align: center;
+  padding-top: 5%;
+}
+#Offer{
+  font-size: xx-large;
+  
+}
+#condition{
+    font-size: x-small;
+}
+#bt1{
+  /* background-color: black; */
+  padding: 1em;
+  border: solid black 2px;
+  width: 15%;
+  border-radius: 40px;
+  margin: 1em;
+}
+#bt2{
+  padding: 1em;
+  border: solid black 2px;
+  width: 15%;
+  border-radius: 40px;
+}
+#bt1:hover{
+  background-color: black;
+  color: white;
+}
+#bt2:hover{
+  background-color: black;
+  color: white;
+}
+.section_03{
+  width: 90%;
+  color: white;
+  background-color: black;
+  padding: 5%;
+  text-align: center;
+}
+#head2{
+  font-size: xx-large;
+}
+#bt3{
+  padding: 1em;
+  width: 10%;
+  border-radius: 40px;
+}
+#bt3:hover{
+  background-color: black;
+  color: white;
+}
+.link3{
+  color: white;
+}

@@ -1,0 +1,28 @@
+.ts03_main{
+    color: white;
+     width: 100%;
+     text-align: center;
+    padding-top: 5%;
+     background-color: black;
+     padding-bottom: 5%;
+    
+ }
+ .sec_main{
+     display: flex;
+     justify-content: center;
+ }
+ .sec_01{
+     color: white;
+     width: 20%;
+ }
+ .image{
+     padding-top: 15%;
+ 
+     height: 7em;
+ }
+ @media screen and (max-width: 480px) {
+     div.sec_main {
+      display: inline;
+     }
+   }
+   
