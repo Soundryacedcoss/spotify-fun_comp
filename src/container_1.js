@@ -10,11 +10,11 @@ function App() {
     <img className='img1' src={img1} alt="Spotify" />
     
     <div className="nav_div_main">
-    <div className="nav_div">Premium</div>
-    <div className="nav_div">Sports</div>
-    <div className="nav_div">Download</div>
-    <div className="nav_div">Sign-Up</div>
-    <div className="nav_div">Login</div>
+    <div className="nav_div"><a className="nav_link" href="http://">Premium</a></div>
+    <div className="nav_div"><a className="nav_link" href="http://">Sports</a></div>
+    <div className="nav_div"><a className="nav_link" href="http://">Download</a></div>
+    <div className="nav_div"><a className="nav_link" href="http://">Sign-Up</a></div>
+    <div className="nav_div"><a className="nav_link" href="http://">Login</a></div>
     </div>
     </div>
     <div className='section_02'>

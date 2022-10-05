@@ -1,13 +1,26 @@
 .tsk_05_div1{
+    
     margin-left: 25%;
     width: 50%;
     justify-content: center;
     display: center;
+    text-align: center;
+    padding: 3%;
+}
+h2{
+    padding-bottom: 2%;
+}
+p{
+    padding-bottom: 2%; 
 }
 .contant{
     display: none;
 }
 .sp1{
-    width: 5%;
+    width: 15%;
     font-size: xx-large;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
 }

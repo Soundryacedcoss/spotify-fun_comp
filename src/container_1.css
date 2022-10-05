@@ -20,12 +20,17 @@
   padding: 1em;
   text-align: end;
   margin-top: 4%;
+  color: white;
+}
+.nav_link{
+  color: white;
+  text-decoration: none;
 }
 .section_02{
   width: 100%;
   height: 22em;
   color: white;
-  background-color: purple;
+  background-color: #3f55e2;
   text-align: center;
   padding-top: 5%;
 }
