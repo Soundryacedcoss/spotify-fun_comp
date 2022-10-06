@@ -19,6 +19,7 @@ function App() {
     </div>
     <div className='section_02'>
         <h2 id="Offer">Get Premium Free for 2 month</h2>
+        <br />
         <p>just Rs 119/month after . Debit and credit card accepted.Cencel anytime</p>
         <button id="bt1">Get Started</button>
         <button id="bt2">See Other Plans</button>
